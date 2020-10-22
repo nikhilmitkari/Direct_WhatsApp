@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Direct WhatsApp</string>
+    <string name="phone_no">Your WhatsApp number will be here</string>
 </resources>
