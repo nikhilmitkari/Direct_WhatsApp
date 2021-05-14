@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:gravity="center"
-            android:text="Mobile no"
+            android:text="@string/mobile_no"
             android:textColor="#0E0A13"
             android:textSize="25sp" />
 
@@ -42,7 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:gravity="center"
-            android:text="Message"
+            android:text="@string/message"
             android:textColor="#0E0A13"
             android:textSize="25sp" />
 
@@ -54,7 +54,7 @@
             android:background="@drawable/border"
             android:fontFamily="@font/handlee"
             android:gravity="start"
-            android:hint="Enter your message..."
+            android:hint="@string/enter_your_message"
             android:lines="5"
             android:padding="8dp" />
 
@@ -64,7 +64,7 @@
             android:layout_height="60dp"
             android:layout_gravity="center"
             android:background="@drawable/button_layout"
-            android:text="Send Message" />
+            android:text="@string/send_message" />
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -76,7 +76,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:text="Made By ❤"
+                android:text="@string/made_by"
                 android:textColor="#000000" />
 
             <TextView
@@ -85,7 +85,7 @@
                 android:layout_marginLeft="8dp"
                 android:layout_marginTop="20dp"
                 android:gravity="center"
-                android:text="Nikhil"
+                android:text="@string/nikhil"
                 android:textColor="#01BD46"
                 android:textSize="18sp"
                 android:textStyle="bold" />
@@ -97,14 +97,14 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="40dp"
-            android:text="For any details"
+            android:text="@string/for_any_details"
             android:textColor="#000000" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="8459810529"
+            android:text="@string/_8459810529"
             android:textColor="@color/colorAccent"
             android:textSize="18sp" />
 
@@ -112,7 +112,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="nikhilmitkari.7@gmail.com"
+            android:text="@string/nikhilmitkari_7_gmail_com"
             android:textColor="@color/colorAccent"
             android:textSize="18sp" />
 
