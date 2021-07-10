@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8670673339",
+    "project_id": "direct-whatsapp-fd87a",
+    "storage_bucket": "direct-whatsapp-fd87a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8670673339:android:c27e7e7bbdc93afb2fac9e",
+        "android_client_info": {
+          "package_name": "com.tuljaisoft.sendwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8670673339-vdg953elo8ss9upv0pemse12tn4bvqau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmXG3qpuJMquwj5ftaVCzHpqcako1uVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8670673339-vdg953elo8ss9upv0pemse12tn4bvqau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

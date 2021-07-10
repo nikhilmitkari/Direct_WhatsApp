@@ -10,4 +10,9 @@
     <string name="for_any_details">For any details</string>
     <string name="_8459810529">8459810529</string>
     <string name="nikhilmitkari_7_gmail_com">nikhilmitkari.7@gmail.com</string>
+
+
+    <string name="backbutton">Are you sure,you want to Exit from App?</string>
+    <string name="yes_dialog">Yes</string>
+    <string name="no_dialog">No</string>
 </resources>
